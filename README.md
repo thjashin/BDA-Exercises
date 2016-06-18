@@ -5,7 +5,7 @@ in IPython Notebook format
 
 To view the notebooks online, use the following links:
 
-* [BDA-Exercises](http://nbviewer.jupyter.org/github/thjashin/BDA-Exercises)
+[BDA-Exercises](http://nbviewer.jupyter.org/github/thjashin/BDA-Exercises)
 * [Chapter03](http://nbviewer.jupyter.org/github/thjashin/BDA-Exercises/blob/master/bda-chapter03.ipynb)
 * [Chapter04](http://nbviewer.jupyter.org/github/thjashin/BDA-Exercises/blob/master/bda-chapter04.ipynb)
 * [Chapter05](http://nbviewer.jupyter.org/github/thjashin/BDA-Exercises/blob/master/bda-chapter05.ipynb)
